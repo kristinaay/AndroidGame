@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bounce</string>
+    <string name="_0">0</string>
+    <string name="_1">1</string>
+    <string name="x">X</string>
+    <string name="tap_the_screen_to_help_froggy_jump_n_n_avoid_ghosts_to_avoid_death_n_n_grab_as_many_stars_as_you_can_n">+Tap the screen to help froggy jump!\n\n +Avoid ghosts to avoid death!\n\n +Grab as many stars as you can!\n</string>
+    <string name="instructions">Instructions:</string>
+</resources>
